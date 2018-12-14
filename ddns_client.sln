@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDNS.Core", "DDNS.Core\DDNS.Core.csproj", "{942684D1-1483-4101-9C39-8881BD132BD5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDNS.Win.Service", "DDNS.Win.Service\DDNS.Win.Service.csproj", "{7053CD96-2E8E-4C10-BB34-05BC5EF05D0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{942684D1-1483-4101-9C39-8881BD132BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{942684D1-1483-4101-9C39-8881BD132BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{942684D1-1483-4101-9C39-8881BD132BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7053CD96-2E8E-4C10-BB34-05BC5EF05D0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7053CD96-2E8E-4C10-BB34-05BC5EF05D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7053CD96-2E8E-4C10-BB34-05BC5EF05D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7053CD96-2E8E-4C10-BB34-05BC5EF05D0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
